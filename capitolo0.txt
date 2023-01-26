@@ -1,7 +1,7 @@
 I am	sono
 is	è
 doctor (m)	dottore
-dottoressa	dottressa
+doctor (f)	dottoressa
 professor (m)	professore
 professor (f)	professoressa
 Mrs.	signora
@@ -94,7 +94,7 @@ well	bene
 so-so	così così
 good bye	arrivederci
 good bye (formal)	arrivederLa
-see you	ce vediamo
+see you	ci vediamo
 see you tomorrow	a domani
 the three what's	che, che cosa, cosa
 who	chi
