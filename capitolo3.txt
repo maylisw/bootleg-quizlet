@@ -1,0 +1,146 @@
+to live (in a place)	abitare
+to love	amare
+to go	andare
+to go to do something	andare a
+to walk, go on foot	andare a piedi
+to get along	andare d'accordo
+to go by (mode of transportation)	andare in
+to arrive	arrivare
+to listen (to)	ascoltare
+to wait (for)	aspettare
+to dance	ballare
+to change	cambiare
+to sing	cantare
+to look for	cercare
+to begin, to start	cominciare
+to start to (do something)	cominciare a
+to buy	comprare
+to give	dare
+to take a test	dare un esame
+to forget	dimenticare
+to do, to make	fare
+to have breakfast	fare colazione
+to ask a question	fare una domanda
+to take a photograph	fare una fotografia
+to attend, to go to (a school, a class)	frequentare
+to watch, to look at	guardare
+to drive	guidare
+to learn	imparare
+to meet	incontrare
+to teach	insegnare
+to work	lavorare
+to eat	mangiare
+to talk, to speak	parlare
+to remember	ricordare
+explain	spiegare
+to stay	stare
+to pay attention, to be careful	stare attento
+to be well	stare bene
+to be unwell	stare male
+to keep quiet	stare zitto
+to study	studiare
+to play (an instrument)	suonare
+to telephone, call	telefonare a
+to return to (a place)	tornare a
+to find	trovare
+year	l'anno
+classroom	l'aula
+room	la camera
+house, home	la casa
+downtown	il centro
+chemistry	la chimica
+guitar	la chitarra
+class (group of students)	la classe
+last name	il cognome
+homework	il compito
+class (course of study)	il corso
+business administration	l'economia e commercio
+exam, test	l'esame
+department, school (within a university)	la facoltà
+family	la famiglia
+son	il figlio
+daughter	la figlia
+brother	il fratello
+parents	i genitori
+law (long)	la giurisprudenza
+computer science	l'informatica
+teacher	l'insegnante
+law (short)	la legge
+liberal arts	le lettere
+bed	il letto
+bookstore	la libreria
+language	la lingua
+mother	la madre
+mom	la mamma
+husband	il marito
+subject matter	la materia (di studio)
+morning	la mattina
+wife	la moglie
+nephew	il nipote
+niece	la nipote
+grandfather	il nonno
+grandmother	la nonna
+oral exams	gli esami orali
+father	il padre
+dad	il papa
+daddy	il babbo
+country, nation	il paese
+relative (m)	il parente
+relative (f)	la parente
+afternoon	il pomeriggio
+written exams	gli esami scritti
+evening	la sera
+sister	la sorella
+major	la specializzazione
+history	la storia
+art history	la storia dell'arte
+studies	gli studi
+architecture	l'architettura
+biology	la biologia
+philosophy	la filosofia
+physics	la fisica
+journalism	il giornalismo
+engineering	l'ingegneria
+literature	la letteratura
+mathematics	la matematica
+medicine	la medicina
+psychology	la psicologia
+political science	le scienze politiche
+sociology	la sociologia
+good at	bravo in
+difficult, hard	difficile
+easy	facile
+every, each	ogni
+preferred, favorite	preferito
+which	quale
+that	quello
+this	questo
+foreign	straniero
+typical	tipico
+all	tutto
+mine	mio
+your (informal)	tuo
+your (formal)	Suo
+his/hers	suo
+ours	nostro
+you alls (informal)	vostro
+you alls (formal)	Loro
+theirs	loro
+how/what is the weather like	che tempo fa
+its nice weather	fa bello
+its bad weather	fa brutto
+its hot	fa caldo
+its cold	fa freddo
+its cool	fa fresco
+now	adesso
+(for) how long	da quanto tempo
+less	meno
+a long time	molto tempo
+never	non ... mai
+why	perché
+early	presto
+when	quando
+often	spesso
+this morning	stamattina
+this evening	stasera
+gladly, willingly	volentieri

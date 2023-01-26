@@ -1,0 +1,114 @@
+to be	essere
+I am	sono
+you are (informal)	sei
+you are (formal)	è
+he/she/it is	è
+you all are (informal)	siete
+you all are (formal)	sono
+they are	sono
+little boy	il bambino
+little girl	la bambina
+library	la biblioteca
+hair	i capelli
+classmate (m)	il compagno
+classmate (f)	la compagna
+cousin (m)	il cugino
+cousin (f)	la cugina
+woman	la donna
+dining hall	la mensa
+eye	l'occhio
+eyes	gli occhi
+clock, watch	l'orologio
+boy	il ragazzo
+girl	la ragazza
+money	i soldi
+man	l'uomo
+men	gli uomini
+cheerful	allegro
+tall	alto
+other	altro
+American	americano
+very old	antico
+unlikeable	antipatico
+elderly	anziano
+angry	arrabbiato
+sky blue	azzurro
+short (in height)	basso
+beautiful	bello
+white	bianco
+blond	biondo
+dark blue	blu
+good, capable	bravo
+dark (hair)	bruno
+ugly	brutto
+Canadian	canadese
+brown (hair)	castano
+bad, naughty, mean	cattivo
+Chinese	cinese
+short (in length)	corto
+messy	disordinato
+fun	divertente
+energetic	energico
+outgoing, extroverted	estroverso
+French	francese
+kind	gentile
+yellow	giallo
+Japanese	giapponese
+young	giovane
+big, great	grande
+fat	grasso
+gray	grigio
+English	inglese
+insensitive	insensibile
+sensitive	sensibile
+insecure	insicuro
+secure	sicuro
+intelligent	intelligente
+interesting	interessante
+Irish	irlandese
+irresponsible	irresponsabile
+responsible	responsabile
+Italian	italiano
+wide	largo
+straight (hair)	liscio
+long	lungo
+thin	magro
+brown	marrone
+Mexican	messicano
+much, many	molto
+black	nero
+nervous	nervoso
+boring	noioso
+new	nuovo
+honest	onesto
+proud	orgoglioso
+little, small	piccolo
+lazy	pigro
+poor	povero
+curly	riccio
+rich	ricco
+red	rosso
+Russian	russo
+nice, likable	simpatico
+Spanish	spagnolo
+athletic	sportivo
+tired	stanco
+same	stesso
+stressed	stressato
+German	tedesco
+calm	tranquillo
+sad	triste
+old	vecchio
+green	verde
+enough, rather	abbastanza
+also, too	anche
+what is he/she/it like	com'è
+what are they like	come sono
+whose is	di chi è
+whose are	di chi sono
+where are you from (informal)	di dove sei
+where are you from (formal)	di dov'è
+very, a lot	molto
+because	perché
+according to	secondo
+always	sempre

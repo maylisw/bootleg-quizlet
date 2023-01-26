@@ -1,0 +1,124 @@
+what is your name (informal)	come ti chiami
+what is your name (formal)	come si chiama
+what nationality are you (informal)	di che nazionalità sei
+what nationality are you (formal)	di che nazionalità è
+where are you from (informal)	di dove sei
+where are you from (formal)	di dov'è
+high school	liceo
+what is you phone number (informal)	qual è il tuo numero di telefono
+what is you phone number (formal)	qual è il suo numero di telefono
+when is your birthday (informal)	qual è il tuo compleanno
+when is your birthday (formal)	qual è il suo compleanno
+what do you do (informal)	che fai
+what do you do (formal)	che fa
+how old are you (informal)	quanti anni hai
+how old are you (formal)	quanti anni ha
+what is your email address (informal)	qual è il tuo indirizzo email
+what is your email address (formal)	qual è il suo indirizzo email
+mechanic	meccanico
+doctor	medico
+lawyer	avvocato
+nurse	infermiera
+waiter	cameriere
+teacher	insegnante
+secretary	segretaria
+pharmacist	farmacista
+factory worker	operaio
+office worker	impiegato
+architect	architetto
+police officer	poliziotto
+taxi driver	taxista
+store worker	commessa
+butcher	macellaio
+hairdresser	parrucchiera
+client	cliente
+farmer	contadino
+bricklayer	muratore
+plumber	idraulico
+stocky, well-built	robusto
+selfish	avaro
+generous	generoso
+polite	educato
+impolite	maleducato
+happy	felice
+sad	triste
+calm (short)	calmo
+blackboard	una lavagna
+window	una finestra
+bag	una borsa
+door	una porta
+student desk	un banco
+newspaper	un giornale
+key	una chiave
+drawer	un cassetto
+sheet of paper	un foglio
+eraser	una gomma
+teacher's desk	una cattedra
+tape recorder	un registratore
+geography map	un cartina geografica
+chalk	un gesso
+television	un televisore
+VCR player	un videoregistratore
+cabinet	un armadietto
+projector	una lavagna luminosa
+strong	forte
+weak	debole
+right-handed	destro
+left-handed	sinistro
+medium height	di media altezza
+wavy (as in hair)	ondulato
+medium length	di media lunghezza
+in the pool	in piscina
+at the bank	in banca
+at the park	al parco
+in the library	in biblioteca
+at the dentist's	dal dentista
+in the classroom	in aula
+at the restaurant	al ristorante
+at the supermarket	al supermercato
+in an airplane	in aereo
+at the post office	alla posta
+at the theater	al teatro
+in prison	in prigione
+at the zoo	allo zoo
+at the hospital	all'ospedale
+in church	in chiesa
+at the movies	al cinema
+computer	un computer
+guitare	una chitarra
+cat	un gatto
+dog	un cane
+fax	un fax
+dishwasher	una lavastoviglie
+stereo	uno stereo
+CD player	un lettore CD
+washing machine	una lavatrice
+telephone	un telefono
+actress	attrice
+actor	attore
+director (orchestra)	diretiore
+director (of movies)	regista
+model (m)	modello
+singer	cantante
+stylest	stilista
+ballerina (m)	ballerino
+is he married	è sposato
+is she married	è sposata
+mirror	uno specchio
+cream	una crema
+cellphone	un cellulare
+purse	un borsellino
+face mask	una mascherina
+eyeglasses	occhiali
+hair brush	una spazzola
+document	un documento
+tissue	un fazzoletto
+get to know each other	si conoscono
+at symbol (@)	chiocciola
+elementary school teacher	il maestro
+plus	più
+minus	meno
+seasons	i stagioni
+mustache	i baffi
+where do you live (informal)	di dove abiti
+where do you live (formal)	di dove abita

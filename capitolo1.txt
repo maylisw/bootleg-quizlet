@@ -1,0 +1,139 @@
+to have	avere
+I have	ho
+you have (informal)	hai
+you have (formal)	ha
+he/she has	ha
+we have	abbiamo
+you all have (informal)	avete
+you all have (formal)	hanno
+they have	hanno
+to be ... years old	avere ... anni
+to need	avere bisogno (di)
+to be warm, hot	avere caldo
+to be hungry	avere fame
+to be cold	avere freddo
+to be in a hurry	avere fretta
+to be afraid of	avere paura (di)
+to be right	avere ragione
+to be thirsty	avere sete
+to be sleepy	avere sonno
+to want, to feel like	avere voglia (di)
+airplane (long)	un aeroplano
+airport	un aeroporto
+airplane (short)	un aereo
+a hotel	un albergo
+a friend (f)	un'amica
+a friend (m)	un amico
+friends	amici
+an orange soda	un'aranciata
+a bus	un autobus
+a car (long)	un'automobile
+a bank	una banca
+bar, café	un bar
+a drinking glass	un bicchiere
+a bike	una bicicletta
+a ticket	un biglietto
+coffee, café	un caffè
+a dog	un cane
+a church	una chiesa
+a movie theater	un cinema
+a city	una città
+a dollar	un dollaro
+a euro	un euro
+pharmacy	una farmacia
+photograph	una fotografia
+a cat	un gatto
+ice cream	un gelato
+a direction	un'indicazione
+a piece of information	un'informazione
+a job	un lavoro
+a lesson	una lezione
+a place	un luogo
+a car (short)	una macchina
+a map	una mappa
+means of transportation	mezzi di trasporto
+a motorcycle	una motocicletta
+a moped	un motorino
+a museum	un museo
+a shop	un negozio
+a first name, a noun	un nome
+a hospital	un ospedale
+a sandwich	un panino
+a pastry	una pasta
+a town square	una piazza
+a restaurant	un ristorante
+a scooter	uno scooter
+a school	una scuola
+a stadium	uno stadio
+a station	una stazione
+a street	una strada
+a supermarket	un supermercato
+a tea	un tè
+a theater	un teatro
+a train	un treno
+a post office	un ufficio postale
+a university	un'università
+a suitcase	una valigia
+suitcases	valige
+a street	una via
+a trip	un viaggio
+a wine	un vino
+a backpack	uno zaino
+an aunt	una zia
+an uncle	uno zio
+uncles	zii
+zoo	uno zoo
+I	io
+you (informal)	tu
+you (formal)	Lei
+he	lui
+she	lei
+we	noi
+you (plural informal)	voi
+you (plural formal)	Loro
+they	loro
+good	buono
+at, to, in	a
+to the right	a destra
+to the left	a sinistra
+there is	c'è
+what	che
+there are	ci sono
+with	con
+from	da
+of, by	di
+where	dove
+where is	dov'è
+straight	dritto
+straight ahead	sempre dritto
+here (it) is	ecco
+in, to, into	in
+there (2)	lì, là
+far, distant	lontano
+but	ma
+not	non
+for, along	per
+then	poi
+really, just	proprio
+how old are you (informal)	quanti anni hai
+here (2)	qui, qua
+nearby	qui vicino
+without	senza
+only	solo
+on, over	su
+is that OK	va bene
+winter	inverno
+spring	primavera
+summer	estate
+fall	autunno
+period (.)	punto
+comma (,)	virgola
+semi-colon (;)	punto e virgola
+colon (:)	due punti
+exclamation mark (!)	punto esclamativo
+question mark (?)	punto interrogativo
+apostrophe (')	apostrofo
+open parenthesis (	parentesi aperta
+close parenthesis )	parentesi chiusa
+open quote («)	virgolette aperte
+close quote (»)	virgolette chiuse

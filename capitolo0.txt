@@ -1,0 +1,124 @@
+I am	sono
+is	è
+doctor (m)	dottore
+dottoressa	dottressa
+professor (m)	professore
+professor (f)	professoressa
+Mrs.	signora
+Mr.	signore
+Miss.	signorina
+days	giorni
+Monday	lunedì
+Tuesday	martedì
+Wednesday	mercoledì
+Thursday	giovedì
+Friday	venerdì
+Saturday	sabato
+Sunday	domenica
+what day is it	che giorno è
+the first (day of the month)	il primo
+week	settimana
+today	oggi
+tomorrow	domani
+yesterday	ieri
+months	mesi
+January	gennaio
+February	febbraio
+March	marzo
+April	aprile
+May	maggio
+June	giugno
+July	luglio
+August	agosto
+September	settembre
+October	ottobre
+November	novembre
+December	dicembre
+I was born (m)	sono nato
+I was born (f)	sono nata
+zero	zero
+one	uno
+two	due
+three	tre
+four	quattro
+five	cinque
+six	sei
+seven	sette
+eight	otto
+nine	nove
+ten	dieci
+eleven	undici
+twelve	dodici
+thirteen	tredici
+fourteen	quattordici
+fifteen	quindici
+sixteen	sedici
+seventeen	diciassette
+eighteen	diciotto
+nineteen	diciannove
+twenty	venti
+twenty-one	ventuno
+twenty-two	ventidue
+twenty-three	ventitré
+twenty-four	ventiquattro
+twenty-five	venticinque
+twenty-six	ventisei
+twenty-seven	ventisette
+twenty-eight	ventotto
+twenty-nine	ventinove
+thirty	trenta
+thirty-one	trentuno
+thirty-two	trentadue
+thirty-three	trentatré
+forty	quaranta
+fifty	cinquanta
+sixty	sessanta
+seventy	settanta
+eighty	ottanta
+ninety	novanta
+one-hundred	cento
+good morning, good afternoon	buon giorno
+good evening	buona sera
+good night	buona notte
+hi (informal)	ciao
+hi (slightly formal)	salve
+how are you (formal)	come sta
+how are you (informal)	come stai
+how is it going	come va
+and you (formal)	e Lei
+and you (informal)	e tu
+not bad	non c'è male
+bad	male
+pretty good	abbastanza bene
+well	bene
+so-so	così così
+good bye	arrivederci
+good bye (formal)	arrivederLa
+see you	ce vediamo
+see you tomorrow	a domani
+the three what's	che, che cosa, cosa
+who	chi
+what? (come again)	come
+my name is	mi chiamo
+thank you	grazie
+please	per favore
+other please	per piacere
+pleased to meet you	piacere
+you're welcome	prego
+excuse me (informal)	scusa
+excuse me (formal)	scusi
+yes	sì
+no	no
+and	e
+how do you say	come si dice
+what does it mean	cosa vuol dire
+a question	una domanda
+a book	un libro
+a pencil	una matita
+a word	una parola
+a pen	una penna
+a notebook	un quaderno
+a chair	una sedia
+a student (m)	uno studente
+a student (f)	una studentessa
+a table	un tavolo
