@@ -76,8 +76,8 @@ husband	il marito
 subject matter	la materia (di studio)
 morning	la mattina
 wife	la moglie
-nephew	il nipote
-niece	la nipote
+nephew/grandson	il nipote
+niece/granddaughter	la nipote
 grandfather	il nonno
 grandmother	la nonna
 oral exams	gli esami orali

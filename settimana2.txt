@@ -1,0 +1,121 @@
+stamp	un francobollo
+perfum	un profumo
+banknote	una banconota
+novel	un romanzo
+sparkling wine	un spumante
+maybe	forse
+song	una canzone
+nursery rhyme	una filastrocca
+tree	un albero
+seed	un seme
+wood	un legno
+fruit	un frutto
+apple	una mela
+forest	un bosco
+earth	una terra
+branch	un ramo
+mountain	un monte
+flower	un fiore
+hat	il capello
+glasses	i occhiali
+jacket	la giacca
+tie	la cravatta
+bag	la borsa
+pants	i pantaloni
+shoes	le scarpe
+umbrella	l'ombrello
+brazilian	brasiliano
+croatian	croato
+greek	greco
+argentinian	argentino
+cuban	cubano
+swiss	svizzero
+tibetan	tibetano
+romanian	rumeno
+russian	russo
+nicaraguan	nicaraguese
+portugese	portoghese
+islandic	islandese
+dutch	olandese
+housewife	una casalinga
+author	scrittore
+vowel	la vocale
+mineral water	l'acqua minerale
+napkin	il tovagliolo
+fresh juice	la spremuta
+beer	la birra
+milk	il latte
+aperitif	l'aperitivo
+coins	gli spiccioli
+small spoon	il cucchiaino
+sugar	lo zucchero
+bitters	l'amaro
+coat	il cappotto
+gloves	I guanti
+place	il posto
+lighter	il accendino
+profession	la professione
+vacation	la vacanza
+country	il paese
+holidays	le ferie
+house	la casa
+party	la festa
+office	il ufficio
+bedroom	la camera
+siblings	i fratelli
+brother-in-law	il cognato
+sister-in-law	la cognata
+twins	i gemelli
+only child (m)	il figlio unico
+only child (f)	la figlia unica
+daughter-in-law	la nuora
+son-in-law	il genero
+the eldest	il maggiore
+the youngest	il minore
+godfather	il padrino
+godmother	la madrina
+mine (ms, fs, mp, fp)	il mio, la mia, i miei, le mie
+yours (ms, fs, mp, fp)	il tuo, la tua, i tuoi, le tue
+his/hers (ms, fs, mp, fp)	il suo, la sua, i suoi, le sue
+ours (ms, fs, mp, fp)	il nostro, la nostra, i nostri, le nostre
+you all's (ms, fs, mp, fp)	il vostro, la vostra, i vostri, le vostre
+theirs (ms, fs, mp, fp)	il loro, la loro, i loro, le loro
+painter (m)	pittore
+painter (f)	pittrice
+the same age	coetaneo
+firm, buisness	una ditta
+executive	dirigente
+to write	scrivere
+to read	leggere
+to play (a sport)	giocare
+to take	prendere
+to leave	partire
+to sleep	dormire
+to drink	bere
+to paint	dipingere
+to lunch	pranzare
+to dine	cenare
+to eat breakfast	fare colazione
+breakfast	la colazione
+lunch	il pranzo
+dinner	la cena
+to wash oneself	lavarsi
+to take a shower	fare la doccia
+to take a bath	fare il bagno
+to cook	cucinare
+to smoke	fumare
+to row	fare canottaggio
+to dance	danzare
+to bike	andare in bicicletta
+to run	correre
+to lift weights	fare i pesi
+soccer	calcio
+basketball	pallacanestro
+volleyball	il pallavolo
+to visit	visitare
+to go out	uscire
+to do laundry	fare la lavatrice
+to clean	pulire
+to clean (something)	lavare
+to see	vedere
+crossword	il cruciverba
