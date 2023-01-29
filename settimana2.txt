@@ -17,7 +17,7 @@ branch	un ramo
 mountain	un monte
 flower	un fiore
 hat	il capello
-glasses	i occhiali
+glasses	gli occhiali
 jacket	la giacca
 tie	la cravatta
 bag	la borsa
@@ -51,17 +51,15 @@ small spoon	il cucchiaino
 sugar	lo zucchero
 bitters	l'amaro
 coat	il cappotto
-gloves	I guanti
+gloves	i guanti
 place	il posto
 lighter	il accendino
 profession	la professione
 vacation	la vacanza
-country	il paese
 holidays	le ferie
 house	la casa
 party	la festa
-office	il ufficio
-bedroom	la camera
+office	l'ufficio
 siblings	i fratelli
 brother-in-law	il cognato
 sister-in-law	la cognata
@@ -95,7 +93,6 @@ to drink	bere
 to paint	dipingere
 to lunch	pranzare
 to dine	cenare
-to eat breakfast	fare colazione
 breakfast	la colazione
 lunch	il pranzo
 dinner	la cena
@@ -119,3 +116,4 @@ to clean	pulire
 to clean (something)	lavare
 to see	vedere
 crossword	il cruciverba
+biking (sport)	il ciclismo

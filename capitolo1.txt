@@ -1,11 +1,9 @@
 to have	avere
 I have	ho
-you have (informal)	hai
-you have (formal)	ha
+you have	hai
 he/she has	ha
 we have	abbiamo
-you all have (informal)	avete
-you all have (formal)	hanno
+you all have	avete
 they have	hanno
 to be ... years old	avere ... anni
 to need	avere bisogno (di)

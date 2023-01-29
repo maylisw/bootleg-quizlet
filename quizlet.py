@@ -120,7 +120,7 @@ def run_learn():
     print(f"=== Missed Terms {len(missed)} ===")
     ordered_missed = sorted(missed.items(), key=lambda x: x[1], reverse=True)
     for term, value in ordered_missed:
-        print(f"{term}\t{deck[term]}")
+        print("{: <2} {: <30} {: <30}".format(value, term, deck[term]))
 
 
 if __name__ == "__main__":
@@ -136,7 +136,3 @@ if __name__ == "__main__":
     except EOFError as e:
         print()
         sys.exit(0)
-
-
-# TODO:
-# saved state????

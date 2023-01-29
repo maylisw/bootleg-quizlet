@@ -1,4 +1,4 @@
-to live (in a place)	abitare
+to live/inhabit (in a place)	abitare
 to love	amare
 to go	andare
 to go to do something	andare a
@@ -6,8 +6,8 @@ to walk, go on foot	andare a piedi
 to get along	andare d'accordo
 to go by (mode of transportation)	andare in
 to arrive	arrivare
-to listen (to)	ascoltare
-to wait (for)	aspettare
+to listen (to)	ascoltare (a)
+to wait	aspettare
 to dance	ballare
 to change	cambiare
 to sing	cantare
@@ -40,8 +40,8 @@ to be unwell	stare male
 to keep quiet	stare zitto
 to study	studiare
 to play (an instrument)	suonare
-to telephone, call	telefonare a
-to return to (a place)	tornare a
+to telephone, call	telefonare (a)
+to return to (a place)	tornare (a)
 to find	trovare
 year	l'anno
 classroom	l'aula
@@ -94,7 +94,7 @@ sister	la sorella
 major	la specializzazione
 history	la storia
 art history	la storia dell'arte
-studies	gli studi
+studies (noun)	gli studi
 architecture	l'architettura
 biology	la biologia
 philosophy	la filosofia
@@ -119,12 +119,10 @@ foreign	straniero
 typical	tipico
 all	tutto
 mine	mio
-your (informal)	tuo
-your (formal)	Suo
+yours	tuo
 his/hers	suo
 ours	nostro
-you alls (informal)	vostro
-you alls (formal)	Loro
+you all's	vostro
 theirs	loro
 how/what is the weather like	che tempo fa
 its nice weather	fa bello
@@ -144,3 +142,51 @@ often	spesso
 this morning	stamattina
 this evening	stasera
 gladly, willingly	volentieri
+I speak (parlare)	parlo
+you speak (parlare)	parli
+he/she speaks (parlare)	parla
+we speak (parlare)	parliamo
+you all speak (parlare)	parlate
+they speak (parlare)	parlano
+I see (vedere)	vedo
+you see (vedere)	vedi
+he/she sees (vedere)	vede
+we see (vedere)	vediamo
+you all see (vedere)	vedete
+they see (vedere)	vedono
+I sleep (dormire)	dormo
+you sleep (dormire)	dormi
+he/she sleeps (dormire)	dorme
+we sleep (dormire)	dormiamo
+you all sleep (dormire)	dormite
+they sleep (dormire)	dormono
+an instrument	uno strumento
+on time, punctual	puntuale
+I give (dare)	do
+you give (dare)	dai
+he/she gives (dare)	dà
+we give (dare)	diamo
+you all give (dare)	date
+they give (dare)	danno
+I stay (stare)	sto
+you stay (stare)	stai
+he/she stays (stare)	sta
+we stay (stare)	stiamo
+you all stay (stare)	state
+they stay (stare)	stanno
+I go (andare)	vado
+you go (andare)	vai
+he/she goes (andare)	va
+we go (andare)	andiamo
+you all go (andare)	andate
+they go (andare)	vanno
+I do (fare)	faccio
+you do (fare)	fai
+he/she does (fare)	fa
+we do (fare)	facciamo
+you all do (fare)	fate
+they do (fare)	fanno
+gym	la palestra
+a few	poche
+patient	paziente
+humor	l'umorismo

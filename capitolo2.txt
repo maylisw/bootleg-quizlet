@@ -1,10 +1,8 @@
 to be	essere
 I am	sono
-you are (informal)	sei
-you are (formal)	è
+you are	sei
 he/she/it is	è
-you all are (informal)	siete
-you all are (formal)	sono
+you all are	siete
 they are	sono
 little boy	il bambino
 little girl	la bambina
