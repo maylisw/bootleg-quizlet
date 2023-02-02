@@ -1,180 +1,203 @@
-to live/inhabit (in a place)	abitare
-to love	amare
-to go	andare
-to go to do something	andare a
-to walk, go on foot	andare a piedi
-to get along	andare d'accordo
-to go by (mode of transportation)	andare in
-to arrive	arrivare
-to listen (to)	ascoltare (a)
-to wait	aspettare
-to dance	ballare
-to change	cambiare
-to sing	cantare
-to look for	cercare
-to begin, to start	cominciare
-to start to (do something)	cominciare a
-to buy	comprare
-to give	dare
-to take a test	dare un esame
-to forget	dimenticare
-to do, to make	fare
-to have breakfast	fare colazione
-to ask a question	fare una domanda
-to take a photograph	fare una fotografia
-to attend, to go to (a school, a class)	frequentare
-to watch, to look at	guardare
-to drive	guidare
-to learn	imparare
-to meet	incontrare
-to teach	insegnare
-to work	lavorare
-to eat	mangiare
-to talk, to speak	parlare
-to remember	ricordare
-explain	spiegare
-to stay	stare
-to pay attention, to be careful	stare attento
-to be well	stare bene
-to be unwell	stare male
-to keep quiet	stare zitto
-to study	studiare
-to play (an instrument)	suonare
-to telephone, call	telefonare (a)
-to return to (a place)	tornare (a)
-to find	trovare
-year	l'anno
-classroom	l'aula
-room	la camera
-house, home	la casa
-downtown	il centro
-chemistry	la chimica
-guitar	la chitarra
-class (group of students)	la classe
-last name	il cognome
-homework	il compito
-class (course of study)	il corso
-business administration	l'economia e commercio
-exam, test	l'esame
-department, school (within a university)	la facoltà
-family	la famiglia
-son	il figlio
-daughter	la figlia
-brother	il fratello
-parents	i genitori
-law (long)	la giurisprudenza
-computer science	l'informatica
-teacher	l'insegnante
-law (short)	la legge
-liberal arts	le lettere
-bed	il letto
-bookstore	la libreria
-language	la lingua
-mother	la madre
-mom	la mamma
-husband	il marito
-subject matter	la materia (di studio)
-morning	la mattina
-wife	la moglie
-nephew/grandson	il nipote
-niece/granddaughter	la nipote
-grandfather	il nonno
-grandmother	la nonna
-oral exams	gli esami orali
-father	il padre
-dad	il papa
-daddy	il babbo
-country, nation	il paese
-relative (m)	il parente
-relative (f)	la parente
-afternoon	il pomeriggio
-written exams	gli esami scritti
-evening	la sera
-sister	la sorella
-major	la specializzazione
-history	la storia
-art history	la storia dell'arte
-studies (noun)	gli studi
-architecture	l'architettura
-biology	la biologia
-philosophy	la filosofia
-physics	la fisica
-journalism	il giornalismo
-engineering	l'ingegneria
-literature	la letteratura
-mathematics	la matematica
-medicine	la medicina
-psychology	la psicologia
-political science	le scienze politiche
-sociology	la sociologia
-good at	bravo in
-difficult, hard	difficile
-easy	facile
-every, each	ogni
-preferred, favorite	preferito
-which	quale
-that	quello
-this	questo
-foreign	straniero
-typical	tipico
-all	tutto
-mine	mio
-yours	tuo
-his/hers	suo
-ours	nostro
-you all's	vostro
-theirs	loro
-how/what is the weather like	che tempo fa
-its nice weather	fa bello
-its bad weather	fa brutto
-its hot	fa caldo
-its cold	fa freddo
-its cool	fa fresco
-now	adesso
-(for) how long	da quanto tempo
-less	meno
-a long time	molto tempo
-never	non ... mai
-why	perché
-early	presto
-when	quando
-often	spesso
-this morning	stamattina
-this evening	stasera
-gladly, willingly	volentieri
-I speak (parlare)	parlo
-you speak (parlare)	parli
-he/she speaks (parlare)	parla
-we speak (parlare)	parliamo
-you all speak (parlare)	parlate
-they speak (parlare)	parlano
-an instrument	uno strumento
-on time, punctual	puntuale
-I give (dare)	do
-you give (dare)	dai
-he/she gives (dare)	dà
-we give (dare)	diamo
-you all give (dare)	date
-they give (dare)	danno
-I stay (stare)	sto
-you stay (stare)	stai
-he/she stays (stare)	sta
-we stay (stare)	stiamo
-you all stay (stare)	state
-they stay (stare)	stanno
-I go (andare)	vado
-you go (andare)	vai
-he/she goes (andare)	va
-we go (andare)	andiamo
-you all go (andare)	andate
-they go (andare)	vanno
-I do (fare)	faccio
-you do (fare)	fai
-he/she does (fare)	fa
-we do (fare)	facciamo
-you all do (fare)	fate
-they do (fare)	fanno
-gym	la palestra
-a few	poche
-patient	paziente
-humor	l'umorismo
+to ride a bike	andare in bicicletta
+to go to the gym	andare in palestra
+to go on vacation	andare in vacanza
+to open	aprire
+to drink	bere
+to understand	capire
+to call	chiamare
+to close	chiudere
+to run	correre
+to paint	dipingere
+to say, to tell	dire
+to draw	disegnare
+to sleep	dormire
+to have to, must	dovere
+to finish	finire
+to play (a sport)	giocare a
+to play on the computer	giocare con il computer
+to invite	invitare
+to leave, to leave (someone) behind	lasciare
+to read	leggere
+to put, to place	mettere
+to offer	offrire
+to snow	nevicare
+it is snowing	nevica
+to swim	nuotare
+to leave, to depart	partire
+to spend (time)	passare
+to skate	pattinare
+to lose, to waste, to miss	perdere
+to rain	piovere
+it is raining	piove
+to be able to (can, may)	potere
+to practice (a sport)	praticare (uno sport)
+to prefer to	preferire
+to take	prendere
+to clean	pulire
+to receive	ricevere
+to answer, to reply	rispondere
+to greet	salutare
+to write	scrivere
+to follow	seguire
+to take a class	seguire un corso
+to hear	sentire
+to server	servire
+to go out, to exit	uscire
+to go out with someone	uscire con qualcuno
+to see	vedere
+to come	venire
+to travel	viaggiare
+to win	vincere
+to want	volere
+to do aerobics	fare aerobica
+to lift weights	fare sollevamento pesi
+to plan, to make plans	fare un programma
+to take a walk	fare una passeggiata
+appointment, date	l'appuntamento
+martial arts	le arti marziali
+fall, autumn	l'autunno
+dancing	il ballo
+basketball (sport, American)	il basket
+lie	la bugia
+soccer	il calcio
+CD	il CD
+computer	il computer
+concert	il concerto
+email (f, American)	l'email
+summer (f)	l'estate
+window	la finestra
+football	il football americano
+game, match (short)	la gara
+player (m)	il giocatore
+player (f)	la giocatrice
+newspaper	il giornale
+(whole) day	la giornata
+hobby	l'hobby
+winter	l'inverno
+letter	la lettera
+music	la musica
+fog	la nebbia
+snow	le neve
+swimming	il nuoto
+ball	la palla
+basketball (sport)	la pallacanestro
+game, match (long)	la partita
+pastime	il passatempo
+skating	il pattinaggio
+rain	la pioggia
+poetry, poem	la poesia
+email (Italian)	la posta elettronica
+spring	la primavera
+plan	il programma
+short story	il racconto
+magazine	la rivista
+skiing	lo sci
+whole evening	la serata
+sport	lo sport
+team	la squadra
+season (of the year)	la stagione
+instrument	lo strumento
+theater	il teatro
+television	la televisione
+tennis	il tennis
+wind	il vento
+truth	la verità
+free, spare (with time)	libero
+few	poco
+what time is it (s)	che ora è
+what time is it (p)	che ore sono
+it is ... o'clock	sono le
+it is one o'clock	È l'una
+noon	il mezzogiorno
+midnight	la mezzanotte
+night	la notte
+quarter after/til	un quarto
+half past	mezzo
+A.M	di mattina
+P.M (12 - 5)	del pomeriggio
+P.M (5-10)	di sera
+P.M, A.M (10-early morning)	di notte
+that (transition)	che
+alone	da solo
+usually	di solito
+afterwards	dopo
+on the other hand	invece
+or	o
+if	se
+immediately	subito
+late	tardi
+everybody	tutti
+I see (vedere)	vedo
+you see (vedere)	vedi
+he/she sees (vedere)	vede
+we see (vedere)	vediamo
+you all see (vedere)	vedete
+they see (vedere)	vedono
+I sleep (dormire)	dormo
+you sleep (dormire)	dormi
+he/she sleeps (dormire)	dorme
+we sleep (dormire)	dormiamo
+you all sleep (dormire)	dormite
+they sleep (dormire)	dormono
+I understand (capire)	capisco
+you understand (capire)	capisci
+he/she understands (capire)	capisce
+we understand (capire)	capiamo
+you all understand (capire)	capite
+they understand	capiscono
+I have to (dovere)	devo
+you have to (dovere)	devi
+he/she has to (dovere)	deve
+we have to (dovere)	dobbiamo
+you all have to (dovere)	dovete
+they have to (dovere)	devono
+I can (potere)	posso
+you can (potere)	puoi
+he/she can (potere)	può
+we can (potere)	possiamo
+you all can (potere)	potete
+they can (potere)	possono
+I want (volere)	voglio
+you want (volere)	vuoi
+he/she wants (volere)	vuole
+we want (volere)	vogliamo
+you all want (volere)	volete
+they want (volere)	vogliono
+I say (dire)	dico
+you say (dire)	dici
+he/she says (dire)	dice
+we say (dire)	diciamo
+you all say (dire)	dite
+they say (dire)	dicono
+I go out (uscire)	esco
+you go out (uscire)	esci
+he/she goes out (uscire)	esce
+we go out (uscire)	usciamo
+you all go out (uscire)	uscite
+they go out (uscire)	escono
+I come (venire)	vengo
+you come (venire)	vieni
+he/she comes (venire)	viene
+we come (venire)	veniamo
+you all come (venire)	venite
+they come (venire)	vengono
+io (direct object)	mi
+tu (direct object)	ti
+Lei (direct object)	La
+lui (direct object)	lo
+lei (direct object)	la
+noi (direct object)	ci
+voi (direct object)	vi
+Loro (M, direct object)	Li
+Loro (F, direct object)	Le
+loro (m, direct object)	li
+loro (f, direct object)	le
+a quarter of an hour	un quarto d'ora
+half an hour	mezz'ora
+to select	scegliere
+I drink (bere)	bevo
+you drink (bere)	bevi
+he/she drinks (bere)	beve
+we drink (bere)	beviamo
+you all drink (bere)	bevete
+they drink (bere)	bevono
