@@ -2,7 +2,7 @@ stamp	un francobollo
 perfum	un profumo
 banknote	una banconota
 novel	un romanzo
-sparkling wine	un spumante
+sparkling wine	lo spumante
 maybe	forse
 song	una canzone
 nursery rhyme	una filastrocca
@@ -117,3 +117,4 @@ to clean (something)	lavare
 to see	vedere
 crossword	il cruciverba
 biking (sport)	il ciclismo
+to knit	fare la maglia
