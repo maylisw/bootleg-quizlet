@@ -1,0 +1,118 @@
+to ask for	chiedere
+I asked for	ho chiesto
+to know; to be acquainted	conoscere
+I knew	ho conosciuto
+to decide	decidere
+to decide (to do something)	decidere di
+I decided	ho deciso
+to become	diventare
+I became	sono diventato
+to ask	domandare
+to enter; to go in	entrare
+I entered	sono entrato
+I was	sono stato
+to be on a diet	essere a dieta
+to chat	fare due chiacchiere
+to interview	intervistare
+to have a snack	fare uno spuntino
+to die	morire
+I died	ho morto
+to be born	nascere
+I was born	sono nato
+to "treat"; to offer	offrire
+I offered	ho offerto
+to order	ordinare
+to pay	pagare
+to take (to), to bring (to)	portare
+to have (food or drink)	prendere
+to narrate, tell	raccontare
+to remain, to stay	rimanere
+I remained	sono rimasto
+to know, to have knowledge of	sapere
+water	l'acqua
+mineral water	l'acqua minerale
+carbonated water	l'acqua gassata
+non carbonated water	l'acqua naturale
+counter	il banco
+beverage	la bevanda
+drink, soft drink	la bibita
+cookie	il biscotto
+selection, excerpt	il brano
+croissant (north)	la brioche
+butter	il burro
+coffee	il caffè
+the waiter	il cameriere
+the waitress	la cameriera
+espresso w/ milk	il cappuccino
+cash register	la cassa
+cereal	i cereali
+food	il cibo
+hot chocolate	la cioccolata
+customer (m)	il cliente
+customer (f)	la cliente
+bill, check	il conto
+croissant (south)	il cornetto
+kitchen	la cucina
+diet	la dieta
+sweets	i dolci
+party	la festa
+slice of bread	la fetta di pane
+cheese	il formaggio
+people	la gente
+ice	il ghiaccio
+milk	il latte
+lemon	il limone
+tip	la mancia
+jam	la marmellata
+mid-afternoon snack	la merenda
+honey	il miele
+bacon	la pancetta
+bread	il pane
+cheese sandwich	il panino al formaggio
+ham sandwich	il panino al prosciutto
+salami sandwich	il panino al salame
+pastry shop	la pasticceria
+meal	il pasto
+door	la porta
+il pranzo	lunch
+dining room	la sala da pranzo
+salami	il salame
+snacks, crackers	i salatini
+living room	il salotto
+sausage	la salsiccia
+snack	lo snack
+freshly squeezed juice	la spremuta
+snack (between meals)	lo spuntino
+orange juice	il succo d'arancia
+little table	il tavolino
+hot tea	il tè caldo
+iced tea	il tè freddo
+egg	l'uovo
+eggs	le uova
+yogurt	lo yogurt
+sugar	lo zucchero
+sick	ammalato
+next (with time expressions)	prossimo
+last (with time expressions)	scorso
+following, next (in sequence)	seguente
+at home	a casa
+to home	a casa
+in school	a scuola
+to school	a scuola
+at, to, in (home/workplace)	da
+ago	fa
+until	fino a
+between, among (f)	fra
+already	già
+yesterday	ieri
+last night	ieri sera
+in pairs	in coppie
+ever	mai
+not yet	non ... ancora
+instead, rather	piuttosto
+first	prima
+before	prima di
+something	qualcosa
+how much	quanto
+between, among (t)	tra
+too much	troppo

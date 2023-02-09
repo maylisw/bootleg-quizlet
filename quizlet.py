@@ -74,7 +74,7 @@ def run_learn():
     if rounds:
         rounds = int(rounds)
     else:
-        rounds = 2
+        rounds = 1
 
     missed = {}
     num_wrong = 0
