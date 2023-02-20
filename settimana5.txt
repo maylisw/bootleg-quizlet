@@ -1,0 +1,56 @@
+carrot	la carota
+banana	la banana
+grapes	l'uva
+chocolate	il cioccolato
+orange	l'arancia
+grapefruit	il pompelmo
+candy	la caramella
+strawberries	le fragole
+mushroom	il fungo
+tuna	il tonna
+shrimp	il gamberetto
+pea	il pisello
+beans	I fagioli
+green beans	I fagiolini
+vinegar	l'aceto
+dried fruit	frutta essiccata
+trail mix	frutta secca
+macadamia nuts	i noci di macadamia
+granola bar	la barretta di cereali
+pumpkin seeds	i semi di zucca
+pear	pera
+an astronaut	un astronauta
+cutlet	una cotoletta
+scallops	scaloppine
+have you all chosen	avete scelto
+and to drink	e da bere
+have you all decided	desiderate
+salt	il sale
+pepper	il pepe
+wine glass	il bicchiere da vino
+water glass	il bicchiere da acqua
+a glass of wine	un bicchiere di vino
+a glass of water	un bicchiere d'acqua
+water pitcher	la caraffa d'acqua
+wine bottle	la bottiglia di vino
+bowl	la ciotola
+tablecloth	la tovaglia
+napkin	il tovagliolo
+small spoon	il cucchiaino
+cheese	il formaggio
+lettuce	la lattuga
+avocado	l'avocado
+roasted	arrosto
+raw	crudo
+eggplant	la melanzana
+croutons	i crostini
+to me (pronomi di oggetto indiretto)	mi
+to you (pronomi di oggetto indiretto)	ti
+to him (pronomi di oggetto indiretto)	gli
+to her (pronomi di oggetto indiretto)	le
+to us (pronomi di oggetto indiretto)	ci
+to you all (pronomi di oggetto indiretto)	vi
+to them (pronomi di oggetto indiretto)	gli
+to them (older version - pronomi di oggetto indiretto)	loro
+to recommend	consigliare
+anchovies	le acciughe

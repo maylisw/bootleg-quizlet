@@ -1,0 +1,91 @@
+to set the table	apparecchiare la tavola
+to eat dinner	cenare
+to recommend (to)	consigliare (di)
+to create	creare
+to be sorry	dispiacere
+I was sorry	mi è dispiaciuto
+to lend (long)	imprestare
+to lend (short)	prestare
+to send	mandare
+to show	mostrare
+to compare	paragonare
+to please, to be pleasing too	piacere
+I liked it	mi è piaciuto
+to eat lunch	pranzare
+to reserve	prenotare
+to prepare, to make	preparare
+to try	provare
+to give (as a gift)	regalare
+to bring back	riportare
+to choose	scegliere
+I chose	ho scelto
+appetizer	l'antipasto
+roast	l'arrosto
+steak	la bisetecca
+toasted and seasoned bread	la bruschetta
+artichoke	il carciofo
+meat	la carne
+dinner	la cena
+knife	il coltello
+side dish	il contorno
+cover charge	il coperto
+pie	la crostata
+spoon	il cucchiaio
+dessert	il dolce
+end	la fine
+flower	il fiore
+fork	la forchetta
+fruit	la frutta
+dumplings	gli gnocchi
+salad	l'insalata
+bowl of fresh fruit	la macedonia
+pork	il maiale
+beef	il manzo
+melon	il melone
+menu	il menù
+vegetable soup	il minestrone
+mozzarella	la mozzarella
+olive	l'oliva
+parmesan	il parmigiano
+pasta	la pasta
+potato	la patata
+fish	il pesce
+plate, dish	il piatto
+pasta bowl	il piatto fondo
+chicken	il pollo
+tomato	il pomodoro
+silverware	le posate
+first course	il primo
+present, gift	il regalo
+recipe	la ricetta
+rice	il riso
+risotto	il risotto
+cold cuts	I salumi
+main course	il secondo
+service charge	il servizio
+the table	la tavola
+cup	la tazza
+tiramisu	il tiramisù
+cake	la torta
+vegetables	la verdura
+white wine	il vino bianco
+red wine	il vino rosso
+veal	il vitello
+with meat sauce (specific)	alla bolognese
+with carbonara sauce	alla carbonara
+baked	al forno
+grilled	alla griglia
+with pesto	al pesto
+with meat sauce (general)	al ragù
+with tomato sauce	al sugo di pomodoro
+in broth	in brodo
+glass	il bicchiere
+cooked	cotto
+fresh	fresco
+fried	fritto
+mixed	misto
+ready	pronto
+(well) then, in that case	allora
+so, therefore	così
+more	di più
+almost	quasi

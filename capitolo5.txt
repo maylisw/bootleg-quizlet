@@ -1,34 +1,57 @@
+I went	sono andata
+I opened	ho aperto
+I arrived	sono arrivata
+I drank	ho bevuto
 to ask for	chiedere
 I asked for	ho chiesto
+I closed	ho chiuso
 to know; to be acquainted	conoscere
-I knew	ho conosciuto
+I met	ho conosciuto
+I ran	ho corso
 to decide	decidere
 to decide (to do something)	decidere di
 I decided	ho deciso
+I said	ho detto
+I painted	ho dipinto
 to become	diventare
-I became	sono diventato
+I became	sono diventata
 to ask	domandare
 to enter; to go in	entrare
-I entered	sono entrato
-I was	sono stato
+I entered	sono entrata
+I did	ho fatto
+I was	sono stata
 to be on a diet	essere a dieta
 to chat	fare due chiacchiere
 to interview	intervistare
 to have a snack	fare uno spuntino
+I read	ho letto
+I put	ho messo
 to die	morire
-I died	ho morto
+I died	sono morta
 to be born	nascere
-I was born	sono nato
+I was born	sono nata
 to "treat"; to offer	offrire
 I offered	ho offerto
 to order	ordinare
 to pay	pagare
+I left	sono partita
 to take (to), to bring (to)	portare
+I lost	ho perso
+I took	ho preso
 to have (food or drink)	prendere
 to narrate, tell	raccontare
 to remain, to stay	rimanere
-I remained	sono rimasto
+I remained	sono rimasta
+I responded	ho risposto
 to know, to have knowledge of	sapere
+to choose, to select	scegliere
+I chose	ho scelto
+I found out	ho saputo
+I wrote	ho scritto
+I stayed	sono stata
+I exited	sono uscita
+I came	sono venuta
+I saw	ho visto
 water	l'acqua
 mineral water	l'acqua minerale
 carbonated water	l'acqua gassata
@@ -74,7 +97,7 @@ salami sandwich	il panino al salame
 pastry shop	la pasticceria
 meal	il pasto
 door	la porta
-il pranzo	lunch
+lunch	il pranzo
 dining room	la sala da pranzo
 salami	il salame
 snacks, crackers	i salatini
@@ -111,8 +134,31 @@ ever	mai
 not yet	non ... ancora
 instead, rather	piuttosto
 first	prima
-before	prima di
+before (doing something)	prima di
 something	qualcosa
 how much	quanto
 between, among (t)	tra
 too much	troppo
+peanuts	le noccioline
+potato chips	le patatine
+popcorn	i popcorn
+junk food	la robaccia
+I spoke	ho parlato
+I understood	ho capito
+I recieved	ho ricevuto
+I know (sappere)	so
+you know (sappere)	sai
+he/she knows (sappere)	sa
+we know (sappere)	sappiamo
+you all know (sappere)	sapete
+they know (sappere)	sanno
+to spend	spendere
+I spent	ho speso
+to turn off	spegnere
+to turn on	accendere
+I turned off	ho spento
+I turned on	ho acceso
+to correct	correggere
+I corrected	ho corretto
+to live	vivere
+I lived	ho vissuto

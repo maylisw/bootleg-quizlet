@@ -22,7 +22,7 @@ to be nice weather	fare bel tempo
 to take a short trip/excursion	fare una gita
 to get up	alzarsi
 to ski	sciare
-to rest	riposarsi
+to rest (oneself)	riposarsi
 to get dressed	vestirsi
 screen	lo schermo
 nerdy	secchione
@@ -51,12 +51,12 @@ berries	i frutti di bosco
 toast	il toast
 small pizza	la pizzetta
 sandwich (triangle)	il tramezzino
-how much is it	quant'è
+how much is it (money-wise)	quant'è
 how much do I pay	quanto pago
 receipt/invoice	la ricevuta
 receipt	lo scontrino
 i would like	vorrei
-what is it	quanto fa
-what would you like	cosa desidera
-what do you want	cosa prende
+what is it (the total)	quanto fa
+what do you want (to eat)	cosa desidera
+what will you have (to eat)	cosa prende
 here it is	ecco a Lei
