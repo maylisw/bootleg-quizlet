@@ -21,7 +21,7 @@ to choose	scegliere
 I chose	ho scelto
 appetizer	l'antipasto
 roast	l'arrosto
-steak	la bisetecca
+steak	la bistecca
 toasted and seasoned bread	la bruschetta
 artichoke	il carciofo
 meat	la carne
@@ -67,7 +67,7 @@ the table	la tavola
 cup	la tazza
 tiramisu	il tiramisù
 cake	la torta
-vegetables	la verdura
+vegetable	la verdura
 white wine	il vino bianco
 red wine	il vino rosso
 veal	il vitello
@@ -89,3 +89,10 @@ ready	pronto
 so, therefore	così
 more	di più
 almost	quasi
+a me	mi
+a tu	ti
+a lui	gli
+a lei	le
+a noi	ci
+a voi	vi
+a loro	gli
