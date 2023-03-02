@@ -13,7 +13,7 @@ to take place	svolgersi
 it took place	si è svolto
 to broadcast	trasmettere
 I broadcasted	ho trasmesso
-matter	l'affare
+the matter (business)	l'affare
 article	l'articolo
 actor	l'attore
 actress	l'attrice
@@ -27,7 +27,7 @@ reporter (f)	la cronista
 dubbing	il doppiaggio
 DVD	il DVD
 TV series	la fiction
-move, film	il film
+movie, film	il film
 journalist (m)	il giornalista
 journalist (f)	la giornalista
 interview	l'intervista
@@ -51,7 +51,7 @@ review	la recensione
 director (m)	il regista
 director (f)	la regista
 network	la rete
-screen	lo schermosubtitle
+screen	lo schermo
 weekly publication	il settimanale
 soap opera	la soap-opera
 poll, survey	il sondaggio
@@ -73,7 +73,7 @@ that is	cioè
 as a kid	da bambino
 as a youth	da giovane
 while	mentre
-especially	soprattuto
+especially	soprattutto
 some time ago	una volta
 I was talking	parlavo
 you were talking	parlavi
@@ -105,12 +105,12 @@ he/she was drinking	beveva
 we were drinking	bevevamo
 you all were drinking	bevevate
 they were drinking	bevevano
-I was talking	dicevo
-you were talking	dicevi
-he/she was talking	diceva
-we were talking	dicevamo
-you all were talking	dicevate
-they were talking	dicevano
+I was saying	dicevo
+you were saying	dicevi
+he/she was saying	diceva
+we were saying	dicevamo
+you all were saying	dicevate
+they were saying	dicevano
 I was making	facevo
 you were making	facevi
 he/she was making	faceva
