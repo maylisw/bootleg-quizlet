@@ -1,0 +1,95 @@
+to embrace, to hug	abbracciarsi
+to fall asleep	addormentarsi
+to help each other	aiutarsi
+to stand up, to get up	alzarsi
+to get bored	annoiarsi
+to get angry	arrabbiarsi
+to kiss	baciarsi
+to call oneself	chiamarsi
+to get to know each other	conoscersi
+to graduate (HS)	diplomarsi
+to have fun	divertirsi
+to look good	fare bella figura
+to take a bath	fare il bagno
+to take a shower	fare la doccia
+to shave (men)	farsi la barba
+to give each other gifts	farsi regali
+to stop (someone or something)	fermare
+to stop (moving)	fermarsi
+to meet up with, to run into	incontrarsi
+to complain (about)	lamentarsi (di)
+to leave each other, to break up	lasciarsi
+to graduate (college)	laurearsi
+to wash oneself	lavarsi
+hair	i capelli
+teeth	i denti
+face	la faccia
+to put on (clothes)	mettersi
+contact lenses	le lenti a contatto
+lipstick	il rossetto
+to wear	portare
+to relax	rilassarsi
+to make a mistake	sbagliarsi
+to feel	sentirsi
+to feel good	sentirsi bene
+to feel bad	sentirsi male
+to feel tired	sentirsi stanco
+to feel happy	sentirsi contento
+to stop (doing something)	smettere di
+to get married	sposarsi
+to wake up	svegliarsi
+to put on makeup	truccarsi
+to get dressed	vestirsi
+clothing	l'abbigliamento
+suit, dress	l'abito
+baseball cap	il berretto
+button	il bottone
+socks	le calze
+men's socks	i calzini
+shirt	la camicia
+coat	il cappotto
+belt	la cintura
+tie	la cravatta
+sweatshirt, sweatsuit	la felpa
+jacket	la giacca
+gloves	i guanti
+raincoat (m)	l'impermeabile
+childhood	l'infanzia
+sweater	la maglia
+t-shirt	la maglietta
+pants	i pantaloni
+price	il prezzo
+relationship	il rapporto
+shoes	le scarpe
+tenis shoes	le scarpe da tennis
+scarf	la sciarpa
+boots	gli stivali
+t-shirt (English)	la t-shirt
+dress, suit	il vestito
+clothes	i vestiti
+life	la vita
+time, occasion	la volta
+sweet	dolce
+so much, so many	tanto
+too much, too many	troppo
+true	vero
+200	duecento
+300	trecento
+400	quattrocento
+500	cinquecento
+600	seicento
+700	settecento
+800	ottocento
+900	novecento
+one thousand	mille
+two thousand	duemila
+thousands	mila
+one million	un milione
+two million	duemilioni
+two billion	duemiliardi
+one billion	un miliardo
+still	ancora
+everyday	di tutti i giorni
+a little	poco
+regularly	regolarmente
+rapidly	velocemente

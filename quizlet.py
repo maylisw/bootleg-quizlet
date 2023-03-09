@@ -122,6 +122,18 @@ def run_learn():
     for term, value in ordered_missed:
         print("{: <2} {: <30} {: <30}".format(value, term, deck[term]))
 
+    out = input("\nWould you like to add missed terms to a file? (y/N)")
+    if out == "y":
+        file = input("filename: ")
+        try:
+            f = open(file, "a")
+        except Exception as e:
+            print(f"error: cannot open file {e}")
+        with f:
+            for term, value in ordered_missed:
+                f.write(f"{term}\t{deck[term]}\n")
+        f.close()
+
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
