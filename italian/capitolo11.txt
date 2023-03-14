@@ -1,0 +1,108 @@
+to go to (a person's home, office, business)	andare da
+to believe in (something)	credere a
+to go shopping (less common)	fare compere
+to go grocery shopping	fare la spesa
+to go shopping	fare spese
+to give a discount	fare uno sconto
+to think about (something)	pensare a
+to sell	vendere
+deal, bargain	l'affare
+lamb	l'agnello
+food, nourishment	l'alimento
+orange	l'arancia
+stall, stand	la bancarella
+blouse	la camicetta
+carrot	la carota
+shopping mall	il centro commerciale
+housemate (m)	il coinquilino
+housemate (f)	la coinquilina
+salesperson in a shop (m)	il commesso
+salesperson in a shop (f)	la commessa
+beans	I fagioli
+fruit vendor (m)	il fruttivendola
+fruit vendor (f)	la fruttivendola
+ice cream maker (m)	il gelataio
+ice cream maker (f)	la gelataia
+ice cream parlor	la gelateria
+skirt	la gonna
+department store	il grande magazzino
+milkman	il lattaio
+milkwoman	la lattaia
+dairy, dairy shop	la latteria
+butcher (m)	il macellaio
+butcher (f)	la macellaia
+butcher shop	la macelleria
+apple	la mela
+eggplant	la melanzana
+market	il mercato
+fashion, style	la moda
+shopkeeper (m)	il negoziante
+shopkeeper (f)	la negoziante
+clothing store	il negozio di abbigliamento
+grocery store	il negozio di alimentari
+produce market	il negozio di frutta e verdura
+bakery	la panetteria
+baker (m)	il panettiere
+baker (f)	la panettiera
+pastry chef (m)	il pasticciere
+pastry chef (f)	la pasticciera
+bell pepper	il peperone
+pear	la pera
+fish market	la pescheria
+fishmonger (m)	il pescivendolo
+fishmonger (f)	la pescivendola
+point of sale	il punto vendita
+sale	il saldo
+deli	la salumeria
+deli clerk (m)	il salumiere
+deli clerk (f)	la salumiera
+discount	lo sconto
+sale, discount	la svendita
+grapes	l'uva
+street vendor (m)	il venditore
+street vendor (f)	la venditrice
+shop window	la vetrina
+100 grams	l'etto
+500 grams	il mezzo chilo
+1000 grams	il chilo
+liter	il litro
+trendy, fashionable	all'ultima moda
+come on, come forward	avanti
+there, it, them	ci
+come on, lets go	dai
+in style, stylish	di moda
+out of style	fuori moda
+on sale (2)	in saldo, in svendita
+any, some (of it/them)	ne
+go ahead, by all means	pure
+what is today's date	quanti ne abbiamo oggi
+come on, get up	su
+speak (you, command)	parla
+do not speak (you, command)	non parlare
+speak (us, command)	parliamo
+speak (you all, command)	parlate
+write (you, command)	scrivi
+do not write (you, command)	non scrivete
+write (us, command)	scriviamo
+write (you all, command)	scrivete
+sleep (you, command)	dormi
+do not sleep (you, command)	non dormire
+sleep (us, command)	dormiamo
+sleep (you all, command)	dormite
+finish (you, command)	finisci
+do not finish (you, command)	non finire
+finish (us, command)	finiamo
+finish (you all, command)	finite
+have (you, command)	abbi
+do not have (you, command)	non avere
+have (you all, command)	abbiate
+have (us, command)	abbiamo
+be (you, command)	sii
+do not be (you, command)	non essere
+be (us, command)	siamo
+be (you all, command)	siate
+go (you, command)	va', vai
+give (you, command)	da', dai
+do (you, command)	fa', fai
+stay (you, command)	sta', stai
+say (you, command)	di'

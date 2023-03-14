@@ -4,6 +4,7 @@ to dry oneself	asciugarsi
 to get dirty	sporcarsi
 to sit down	sedersi
 to take off (clothes)	togliersi
+I took off	mi sono tolta
 to shave (general)	radersi
 to comb	pettinarsi
 to dress up, to masquerade	mascherarsi

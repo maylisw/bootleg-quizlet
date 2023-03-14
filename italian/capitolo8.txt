@@ -61,7 +61,7 @@ talk show	il talk show
 press, the press	la stampa
 TV mini-series	il telefilm
 TV news	il telegiornale
-programm (TV or radio - french)	la transmissione
+programm (TV or radio - french)	la trasmissione
 big	grosso
 excellent, best	ottimo
 last	ultimo

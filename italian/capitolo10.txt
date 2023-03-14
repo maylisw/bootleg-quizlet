@@ -1,0 +1,80 @@
+to rent (housing)	affittare
+to go to the countryside	andare in campagna
+to go camping	andare in campeggio
+to go abroad	andare all'estero
+to go on vacation (summer holidays)	andare in ferie
+to go on vacation (general)	andare in vacanza
+to go to the seaside	andare al mare
+to go to the mountains	andare in montagna
+to go to the beach	andare in spiaggia
+to go/come to visit a person	andare a trovare
+to intend (to)	avere intenzione (di)
+to cost	costare
+it costed	è costato
+to go on a cruise	fare una crociera
+to do/take a vacation (summer holidays)	fare le ferie
+to do/take a vacation (general)	fare le vacanze
+to take a trip	fare un viaggio
+to take a trip/a tour	fare un giro
+to rent (transportation)	noleggiare
+a boat	la barca
+to sunbathe	prendere il sole
+to rent (a house)	prendere in affitto
+to rent (transport)	prendere a nolo
+to use	usare
+to come to visit (a person)	venire a trovare
+to visit (a place)	visitare
+to make a plan	fare un programma
+to pay	pagare
+to book, to reserve	prenotare
+deluxe hotel	l'albergo di lusso
+inexpensive hotel	l'albergo di economico
+arrival	l'arrivo
+room	la camera
+double room	la camera doppia
+king/queen bedroom	la camera matrimoniale
+single room	la camera singola
+with air conditioning	con aria condizionata
+with a bathroom	con bagno
+with a shower	con doccia
+credit card	la carta di credito
+postcard	la cartolina
+holiday	la festa
+national/work holiday	il giorno di ferie
+itinerary	l'itinerario
+destination	la meta
+Christmas	il Natale
+hostel	l'ostello
+landscape	il paesaggio
+departure	la partenza
+Easter	la Pasqua
+inn	la pensione
+inn half board (2 meals)	la mezza pensione
+inn full board (3 meals)	la pensione completa
+place, space, room	il posto
+lodging, accommodation	la sistemazione
+stopover, leg of a journey	la tappa
+informal restaurant, diner	la trattoria
+vacation	le vacanze
+singer (m)	il cantante
+singer (f)	la cantante
+desk clerk, white collar worker (m)	l'impiegato
+desk clerk, white collar worker (f)	l'impiegata
+painter (m)	il pittore
+painter (f)	la pittrice
+poet (m)	il poeta
+poet (f)	la poetessa
+prince	il principe
+princess	la principessa
+king	il re
+queen	la regina
+skier (m)	lo sciatore
+skier (f)	la sciatrice
+fixed, set	fisso
+free, unoccupied	libero
+all costs included	tutto compreso
+just, as soon as	appena
+who knows	chissà
+maybe, perhaps	forse
+in cash	in contanti
+nothing special	niente di speciale

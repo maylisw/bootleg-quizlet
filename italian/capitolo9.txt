@@ -1,0 +1,78 @@
+to get sick	ammalarsi
+to go to the hospital	andare all'ospedale
+to have a headache	avere mal di testa
+to have a toothache	avere mal di denti
+to have a stomachache	avere mal di stomaco
+to check, to check up on	controllare
+to care for, to treat	curare
+to hurt	fare male
+to hurt oneself, to get hurt	farsi male
+to heal, to get well	guarire
+I heal	guarisco
+I healed	sono guarita
+to catch a cold	prendere il raffreddore
+to break (a body part)	rompersi
+I broke my leg	mi sono rotta la gamba
+to happen	succedere
+it happened	è successo
+to examine (a patient)	visitare
+to live	vivere
+I lived	ho vissuto
+diet, nutrition	l'alimentazione
+mouth	la bocca
+arm	il braccio
+arms	le braccia
+song	la canzone
+test, check, check-up	il controllo
+body	il corpo
+heart	il cuore
+finger	il dito
+fingers	le dita
+pain	il dolore
+fever	la febbre
+leg	la gamba
+throat	la gola
+accident (m)	l'incidente
+nurse (m)	l'infermiere
+nurse (f)	l'infermiera
+illness	la malattia
+hand	la mano
+hands	le mani
+medicine	la medicina
+doctor	il medico
+glasses	gli occhiali
+ear	l'orecchio
+part	la parte
+patient (m)	il paziente
+patient (f)	la paziente
+foot	il piede
+common cold	il raffreddore
+prescription	la ricetta
+waiting room	la sala d'aspetto
+health	la salute
+back	la schiena
+stomach	lo stomaco
+head	la testa
+face	la faccia
+eye	l'occhio
+better	più buono
+the best	il migliore
+worse	più cattivo
+the worst	il peggiore
+bigger	più grande
+the biggest	il maggiore
+smaller	più piccolo
+the smallest	il minore
+painful	doloroso
+effective	efficace
+annoying	fastidioso
+strong	forte
+serious	grave
+sick	malato
+healthy	sano
+human	umano
+after	dopo
+better (adv)	meglio
+worse (adv)	peggio
+only	solamente
+under, below	sotto

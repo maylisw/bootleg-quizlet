@@ -13,7 +13,8 @@ Otherwise download and install the latest python version for macOS [here](https:
 
 You can use [quizlet.com](quizlet.com) to create word lists as you would normally. Then you can
 export them so they can be used with the program. Note that the script is designed to have you type
-/ be tested on the "definition" part of the card.
+/ be tested on the "definition" part of the card. Terms should be unique otherwise the program will
+on store the latest definition.
 
 On a Quizlet set, click the three dots and then export. The settings should be:
 
@@ -26,14 +27,25 @@ using `vim`: simply type `vim <name of file>`, paste the contents, and type `:wq
 ### Manually
 
 The script expects texts files where each card is on its own line and that terms (the part printed)
-and definitions (the part typed/tested) are seperated by a tab. (E.g. `term\tdef\n`)
+and definitions (the part typed/tested) are seperated by a tab. (E.g. `term\tdef\nterm2\tdef2`)
 
 ## Run Program
 
-Run `which python` to determine the location of your installation of python. Then update the first
-line in `quizlet.py` to be `#!<output of which python here>`.
+### python
 
-You should now be able to run the program like so: `./quizlet.py path/to/word/list`
+Open you terminal app and run `which python` to determine the location of your installation of
+python. Then update the first line in `quizlet.py` to be `#!<output of which python here>` (you can
+do this using a program like TextEdit).
+
+### Execute permissions
+
+To navigate to the folder where the program is you will need to run `cd ~/<path>`. For example if
+this program is in a folder named `quizlet` in your Downloads folder you will need to run
+`cd ~/Downloads/quizlet`. Give the file executable permissions by running: `chmod +x quizlet.py` in
+your terminal.
+
+You should now be able to run the program `./quizlet.py path/to/word/list.txt`. For example to use a
+word list in my quizlet folder called `french.txt` you would run `./quizlet.py french.txt`.
 
 ## Program Features
 

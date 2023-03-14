@@ -22,16 +22,15 @@ def signal_handler(sig, frame):
 def import_deck(file):
     try:
         f = open(file, "r")
+        with f:
+            line = f.readline()
+            while line:
+                term, definition = line.split("\t")
+                deck[term.strip()] = definition.strip()
+                line = f.readline()
+        f.close()
     except Exception as e:
         print(f"error: cannot open file {e}")
-    with f:
-        line = f.readline()
-        while line:
-            term, definition = line.split("\t")
-            deck[term.strip()] = definition.strip()
-            line = f.readline()
-
-    f.close()
 
 
 def add(d, t):

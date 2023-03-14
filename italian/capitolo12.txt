@@ -1,0 +1,77 @@
+to furnish	ammobiliare
+to knock (at a door)	bussare
+to move houses	cambiare casa
+to move (things)	spostare
+to move (away)	trasferisi
+I move	trasferisco
+to move (within the same town)	traslocare
+to rent	affittare
+residence	l'abitazione
+rent	l'affitto
+apartment	l;appartamento
+wardrobe	l'armadio
+closet	l'armadio a muro
+elevator	l'ascensore
+bathroom	il bagno
+balcony	il balcone
+bedroom	la camera da letto
+countryside	la campagna
+cellar, basement	la cantina
+sofa	il divano
+entrance, entryway	l'entrata
+garden	il giardino
+address (m)	l'indirizzo
+entrance, input	l'ingresso
+tenant (m)	l'inquilino
+tenant (f)	l'inquilina
+washing machine	la lavatrice
+attic apartment	la mansarda
+piece of furniture	il mobile
+studio apartment	il monolocale
+landlord	il padrone di casa
+landlady	la padrona di casa
+apartment building	il palazzo
+floor (of a building)	il piano
+ground floor	il pianterreno
+armchair	la poltrona
+the first floor	il primo piano
+the second floor	il secondo piano
+the third floor	il terzo piano
+heat, heating	il riscaldamento
+noise	il rumore
+shelf	lo scaffale
+bookshelf	lo scaffale per i libri
+stairs, staircase	le scale
+desk	la scrivania
+facilities	i servizi
+attic	la soffitta
+living room	il soggiorno
+room	la stanza
+study, office	lo studio
+balcony, terrace	il terrazzo
+mouse	il topo
+house	la villa
+view	la vista
+dining room	la sala da pranzo
+furnished	ammobiliato
+cute	carino
+unusual	insolito
+useless	inutile
+pleasant	piacevole
+each one	ognuno
+neither nor	né ... né
+no one, nobody	nessuno
+nothing	nulla
+sometimes	qualche volta
+everything	tutto
+besides, next to	accanto (a)
+for rent	affittasi
+on the ground floor	a pianterreno
+on the first floor	al primo piano
+wanted	cercasi
+in front (of)	davanti (a)
+behind	dietro (a/di)
+in the suburbs	in periferia
+for sale, on sale	in vendita
+above, over	spora
+for sale	vends
