@@ -2,13 +2,13 @@ to furnish	ammobiliare
 to knock (at a door)	bussare
 to move houses	cambiare casa
 to move (things)	spostare
-to move (away)	trasferisi
+to move (away)	trasferirsi
 I move	trasferisco
 to move (within the same town)	traslocare
 to rent	affittare
 residence	l'abitazione
 rent	l'affitto
-apartment	l;appartamento
+apartment	l'appartamento
 wardrobe	l'armadio
 closet	l'armadio a muro
 elevator	l'ascensore
@@ -73,5 +73,5 @@ in front (of)	davanti (a)
 behind	dietro (a/di)
 in the suburbs	in periferia
 for sale, on sale	in vendita
-above, over	spora
-for sale	vends
+above, over	sopra
+for sale	vendesi

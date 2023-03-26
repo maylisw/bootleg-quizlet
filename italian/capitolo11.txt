@@ -19,7 +19,7 @@ housemate (f)	la coinquilina
 salesperson in a shop (m)	il commesso
 salesperson in a shop (f)	la commessa
 beans	I fagioli
-fruit vendor (m)	il fruttivendola
+fruit vendor (m)	il fruttivendolo
 fruit vendor (f)	la fruttivendola
 ice cream maker (m)	il gelataio
 ice cream maker (f)	la gelataia
@@ -82,7 +82,7 @@ do not speak (you, command)	non parlare
 speak (us, command)	parliamo
 speak (you all, command)	parlate
 write (you, command)	scrivi
-do not write (you, command)	non scrivete
+do not write (you, command)	non scrivere
 write (us, command)	scriviamo
 write (you all, command)	scrivete
 sleep (you, command)	dormi

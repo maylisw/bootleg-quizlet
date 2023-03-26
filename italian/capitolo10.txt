@@ -25,10 +25,11 @@ to use	usare
 to come to visit (a person)	venire a trovare
 to visit (a place)	visitare
 to make a plan	fare un programma
+to make plans	fare programmi
 to pay	pagare
 to book, to reserve	prenotare
 deluxe hotel	l'albergo di lusso
-inexpensive hotel	l'albergo di economico
+inexpensive hotel	l'albergo economico
 arrival	l'arrivo
 room	la camera
 double room	la camera doppia
@@ -78,3 +79,36 @@ who knows	chissà
 maybe, perhaps	forse
 in cash	in contanti
 nothing special	niente di speciale
+I will speak	parlerò
+you will speak	parlerai
+he/she will speak	parlerà
+we will speak	parleremo
+you all will speak	parlerete
+they will speak	parleranno
+I will write	scriverò
+you will write	scriverai
+he/she will write	scriverà
+we will write	scriveremo
+you all will write	scriverete
+they will write	scriveranno
+I will finish	finirò
+you will finish	finirai
+he/she will finish	finirà
+we will finish	finiremo
+you all will finish	finirete
+they will finish	finiranno
+I will play	giocherò
+I will pay	pagherò
+I will start	comincerò
+I will eat	mangerò
+I will go	andrò
+I will have	avrò
+I will have to	dovrò
+I will do	farò
+I will stay	starò
+I will come	verrò
+I will give	darò
+I will be	sarò
+I will be able to	potrò
+I will see	vedrò
+I will want	vorrò
