@@ -1,21 +1,21 @@
-stamp	un francobollo
-perfum	un profumo
-banknote	una banconota
-novel	un romanzo
+stamp	il francobollo
+perfum	il profumo
+banknote	la banconota
+novel	il romanzo
 sparkling wine	lo spumante
 maybe	forse
-song	una canzone
-nursery rhyme	una filastrocca
-tree	un albero
-seed	un seme
-wood	un legno
-fruit	un frutto
-apple	una mela
-forest	un bosco
-earth	una terra
-branch	un ramo
-mountain	un monte
-flower	un fiore
+song	la canzone
+nursery rhyme	la filastrocca
+tree	l'albero
+seed	il seme
+wood	il legno
+fruit	il frutto
+apple	la mela
+forest	il bosco
+earth	la terra
+branch	il ramo
+mountain	il monte
+flower	il fiore
 hat	il capello
 glasses	gli occhiali
 jacket	la giacca
@@ -37,7 +37,7 @@ nicaraguan	nicaraguese
 portugese	portoghese
 islandic	islandese
 dutch	olandese
-housewife	una casalinga
+housewife	la casalinga
 author	scrittore
 vowel	la vocale
 mineral water	l'acqua minerale
@@ -81,7 +81,7 @@ theirs (ms, fs, mp, fp)	il loro, la loro, i loro, le loro
 painter (m)	pittore
 painter (f)	pittrice
 the same age	coetaneo
-firm, buisness	una ditta
+firm, buisness	la ditta
 executive	dirigente
 to write	scrivere
 to read	leggere

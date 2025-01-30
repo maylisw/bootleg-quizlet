@@ -46,7 +46,7 @@ that he was saying	che lui dicesse
 that we were saying	che dicessimo
 that you all were saying	che diceste
 that they were saying	che dicessero
-that I was doing	doing che io facessi
+that I was doing	che io facessi
 that you were doing	che tu facessi
 that he was doing	che lui facesse
 that we were doing	che facessimo

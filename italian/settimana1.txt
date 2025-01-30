@@ -15,26 +15,26 @@ how old are you (informal)	quanti anni hai
 how old are you (formal)	quanti anni ha
 what is your email address (informal)	qual è il tuo indirizzo email
 what is your email address (formal)	qual è il suo indirizzo email
-mechanic	meccanico
-doctor	medico
-lawyer	avvocato
-nurse	infermiera
-waiter	cameriere
-teacher	insegnante
-secretary	segretaria
-pharmacist	farmacista
-factory worker	operaio
-office worker	impiegato
-architect	architetto
-police officer	poliziotto
-taxi driver	taxista
-store worker	commessa
-butcher	macellaio
-hairdresser	parrucchiera
-client	cliente
-farmer	contadino
-bricklayer	muratore
-plumber	idraulico
+mechanic	il meccanico
+doctor	il medico
+lawyer	l'avvocato
+nurse	l'infermiera
+waiter	il cameriere
+teacher	l'insegnante
+secretary	la segretaria
+pharmacist	il farmacista
+factory worker	l'operaio
+office worker	l'impiegato
+architect	l'architetto
+police officer	il poliziotto
+taxi driver	il taxista
+store worker	la commessa
+butcher	il macellaio
+hairdresser	la parrucchiera
+client	il cliente
+farmer	il contadino
+bricklayer	il muratore
+plumber	l'idraulico
 stocky, well-built	robusto
 selfish	avaro
 generous	generoso
@@ -43,24 +43,24 @@ impolite	maleducato
 happy	felice
 sad	triste
 calm (short)	calmo
-blackboard	una lavagna
-window	una finestra
-bag	una borsa
-door	una porta
-student desk	un banco
-newspaper	un giornale
-key	una chiave
-drawer	un cassetto
-sheet of paper	un foglio
-eraser	una gomma
-teacher's desk	una cattedra
-tape recorder	un registratore
-geography map	un cartina geografica
-chalk	un gesso
-television	un televisore
-VCR player	un videoregistratore
-cabinet	un armadietto
-projector	una lavagna luminosa
+blackboard	la lavagna
+window	la finestra
+bag	la borsa
+door	la porta
+student desk	il banco
+newspaper	il giornale
+key	la chiave
+drawer	il cassetto
+sheet of paper	il foglio
+eraser	la gomma
+teacher's desk	la cattedra
+tape recorder	il registratore
+geography map	la cartina geografica
+chalk	il gesso
+television	il televisore
+VCR player	il videoregistratore
+cabinet	l'armadietto
+projector	la lavagna luminosa
 strong	forte
 weak	debole
 right-handed	destro
@@ -84,16 +84,16 @@ at the zoo	allo zoo
 at the hospital	all'ospedale
 in church	in chiesa
 at the movies	al cinema
-computer	un computer
-guitare	una chitarra
-cat	un gatto
-dog	un cane
-fax	un fax
-dishwasher	una lavastoviglie
-stereo	uno stereo
-CD player	un lettore CD
-washing machine	una lavatrice
-telephone	un telefono
+computer	il computer
+guitare	la chitarra
+cat	il gatto
+dog	il cane
+fax	il fax
+dishwasher	la lavastoviglie
+stereo	lo stereo
+CD player	il lettore CD
+washing machine	la lavatrice
+telephone	il telefono
 actress	attrice
 actor	attore
 director (orchestra)	diretiore
@@ -104,15 +104,15 @@ stylest	stilista
 ballerina (m)	ballerino
 is he married	è sposato
 is she married	è sposata
-mirror	uno specchio
-cream	una crema
-cellphone	un cellulare
-purse	un borsellino
-face mask	una mascherina
+mirror	lo specchio
+cream	la crema
+cellphone	il cellulare
+purse	il borsellino
+face mask	la mascherina
 eyeglasses	occhiali
-hair brush	una spazzola
-document	un documento
-tissue	un fazzoletto
+hair brush	la spazzola
+document	il documento
+tissue	il fazzoletto
 get to know each other	si conoscono
 at symbol (@)	chiocciola
 elementary school teacher	il maestro
