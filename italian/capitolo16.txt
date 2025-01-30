@@ -1,0 +1,77 @@
+to retire	andare in pensione
+to raise, to increase	aumentare
+to be necessary	bisognare
+to increase, to grow	crescere
+I grew	sono cresciuta
+to reduce	diminuire
+I reduce	diminuisco
+to doubt	dubitare
+to elect	eleggere
+I elected	ho eletto
+to insist, to demand	esigere
+to be retired	essere in pensione
+to be on strike	essere in sciopero
+to do a strike	fare sciopero
+to make oneself heard	farsi sentire
+to imagine	immaginare
+to become informed (about), to become acquainted (with)	informarsi (su)
+to organize	organizzare
+to seem, to appear	parere
+I seemed, I appeared	sono parsa
+to recognize	riconoscere
+I recognized	ho riconosciuto
+to have to do with, to regard	riguardare
+to strike	scioperare
+to seem, to resemble	sembrare
+I seemed	sono sembrata
+to vote	votare
+raise, increase	l'aumento
+election campaign	la campagna elettorale
+candidate (m)	il candidato
+candidate (f)	la candidata
+public office	la carica pubblica
+citizen (m)	il cittadino
+citizen (f)	la cittadina
+coalition	la coalizione
+advice	il consiglio
+democracy	la democrazia
+representative (m)	il deputato
+representative (f)	la deputata
+reduction, diminishing	la diminuzione
+legal right	il diritto
+speech, conversation	il discorso
+unemployment	la disoccupazione
+elections	le elezioni
+factory	la fabbrica
+administration, government	il Governo
+office worker (m)	l'impiegato
+office worker (f)	l'impiegata
+demonstration, rally	la manifestazione
+government minister	il ministro
+blue collar worker (m)	l'operaio
+blue collar worker (f)	l'operaia
+political party	il partito politico
+retired person (m)	il pensionato
+retired person (f)	la pensionata
+pensione, retirement	la pensione
+politics	la politica
+poverty	la povertà
+reduction	la riduzione
+wages, salary	il salario
+strike	lo sciopero
+senator (m)	il senatore
+senator (f)	la senatrice
+political system	il sistema politico
+the state, the federal government	lo Stato
+salary	lo stipendio
+taxes	le tasse
+vote	il voto
+current, present	attuale
+certain	certo
+unemployed	disoccupato
+informed, up to date	informato
+obvious	ovvio
+social	sociale
+right-wing	di destra
+left-wing	di sinistra
+centrist	di centro

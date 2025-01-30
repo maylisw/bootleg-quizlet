@@ -1,0 +1,60 @@
+that I was talking	che io parlassi
+that you were talking	che tu parlassi
+that he was talking	che lui parlasse
+that we were talking	che parlassimo
+that you all were talking	che parlaste
+that they were talking	che parlassero
+that I was writing	che io scrivessi
+that you were writing	che tu scrivessi
+that he was writing	che lui scrivesse
+that we were writing	che scrivessimo
+that you all were writing	che scriveste
+that they were writing	che scrivessero
+that I was sleeping	che io dormissi
+that you were sleeping	che tu dormissi
+that he was sleeping	che lui dormisse
+that we were sleeping	che dormissimo
+that you all were sleeping	che dormiste
+that they were sleeping	che dormissero
+that I was	che io fossi
+that you were	che tu fossi
+that he was	che lui fosse
+that we were	che fossimo
+that you all were	che foste
+that they were	che fossero
+that I was giving	giving che io dessi
+that you were giving	che tu dessi
+that he was giving	che lui desse
+that we were giving	che dessimo
+that you all were giving	che desete
+that they were giving	che dessero
+that I was staying	staying che io stessi
+that you were staying	che tu stessi
+that he was staying	che lui stesse
+that we were staying	che stessimo
+that you all were staying	che steste
+that they were staying	che stessero
+that I was drinking	drinking che io bevessi
+that you were drinking	che tu bevessi
+that he was drinking	che lui bevesse
+that we were drinking	che bevessimo
+that you all were drinking	che beveste
+that they were drinking	che bevessero
+that I was saying	saying che io dicessi
+that you were saying	che tu dicessi
+that he was saying	che lui dicesse
+that we were saying	che dicessimo
+that you all were saying	che diceste
+that they were saying	che dicessero
+that I was doing	doing che io facessi
+that you were doing	che tu facessi
+that he was doing	che lui facesse
+that we were doing	che facessimo
+that you all were doing	che faceste
+that they were doing	che facessero
+that I had	che io avessi
+that you had	che tu avessi
+that he had	che lui avesse
+that we had	che avessimo
+that you all had	che aveste
+that they had	che avessero

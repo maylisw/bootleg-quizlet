@@ -1,0 +1,54 @@
+cymbals	i piatti
+record player	il giradischi
+vynil record	il disco
+notes, music	le note
+stage (short)	il palco
+sheet music	lo spartito
+music stand	il leggio
+bass drum	la grancassa
+cassette tape	la cassetta
+headphones (big)	le cuffie
+earbuds	gli auricolari
+headphones (small)	le cuffiette
+drum sticks	le bacchette
+guitar	la chitarra
+keyboard	la tastiera elettronica
+tambourine, drum	il tamburo
+speakers	gli altoparlanti
+saxophone	il sassofono
+microphone	il microfono
+guitarist	il chitarrista
+drummer	il batterista
+pianist	il pianista
+trombone	il trombone
+harp	l'arpa
+piano	il pianoforte
+string instruments	gli strumenti a corda
+seated	seduto
+wind instruments	gli strumenti a fiato
+violin bow	l'archetto
+nightmare	l'incubo
+to dream	sognare
+deals with	tratta di
+to taste	assaggiare
+to descend	scendere
+I descended	sono scesa
+to ascend, to go up	salire
+I went up	sono salita
+lights	le luci
+sound	il suono
+noise	il rumore
+lyrics	il testo
+relaxing	rilassante
+hairdresser (f)	la parrucchiera
+hairdresser (m)	il parrucchiere
+receptionist (f)	la centralinista
+baton	la bacchetta
+percussion instruments	gli strumenti a percussione
+role	il ruolo
+soundtrack	la colonna sonora
+wish, desire	il desiderio
+to earn money	guadagnare soldi
+postman	il postino
+postwoman	la postina
+ice	il ghiaccio

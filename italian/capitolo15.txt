@@ -1,0 +1,63 @@
+to establish oneself	affermarsi
+to quote	citare
+to build	construire
+I build	construisco
+to do research	fare ricerche
+to write a paper/report	fare una relazione
+to take time (person as subj.)	metterci
+to summarize	riassumere
+I have summarized	ho riassunto
+to sculpt	scolpire
+I sculpt	scolpisco
+to take time (time as subject)	volerci
+to write	scrivere
+to paint	dipingere
+I painted	ho dipinto
+fresco	l'affresco
+archeology	l'archeologia
+archeologist (m)	l'archeologo
+archeologist (f)	l'archeologa
+architect	l'architetto
+subject, topic	l'argomento
+art	l'arte
+fine arts	le belle arti
+masterpiece	il capolavoro
+quotation	la citazione
+painting (piece of work)	il dipinto
+guide	la guida
+mosaic	il mosaico
+mosaics	I mosaici
+exhibit	la mostra
+short story	la novella
+work, piece of work	l'opera
+artwork, work of art	l'opera d'arte
+painting (in general)	la pittura
+the postmodern period	il postmoderno
+protagonist (m)	il protagonista
+protagonist (f)	la protagonista
+paper, report	la relazione
+restoration, (art) conservation	il restauro
+summary	il riassunto
+research	la ricerca
+rhyme	la rima
+portrait	il ritratto
+novel	il romanzo
+ruins, remains (2)	le rovine, i ruderi
+archeological dig	lo scavo archeologico
+writing (in general)	la scrittura
+writer (f)	la scrittrice
+writer (m)	lo scrittore
+sculptor (m)	lo scultore
+sculptor (f)	la scultrice
+sculpture	la scultura
+century	il secolo
+statue	la statua
+style	lo stile
+theme	il tema
+fourth	quarto
+fifth	quinto
+sixth	sesto
+seventh	settimo
+eighth	ottavo
+ninth	nono
+tenth	decimo

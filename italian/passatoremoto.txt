@@ -1,0 +1,100 @@
+I had talked	parlai
+I talked	parlai
+you talked	parlasti
+he talked	parlò
+we talked	parlammo
+you all talked	parlaste
+they talked	parlarono
+I believed	credei
+you believed	credesti
+he believed	credè
+we believed	credemmo
+you all believed	credeste
+they believed	crederono
+I finished	finii
+you finished	finisti
+he finished	finì
+we finished	finimmo
+you all finished	finiste
+they finished	finirono
+I was	fui
+you were	fosti
+he was	fu
+we were	fummo
+you all were	foste
+they were	furono
+I gave	diedi
+you gave	desti
+he gave	diede
+we gave	demmo
+you all gave	deste
+they gave	diedero
+I said	dissi
+you said	dicesti
+he said	disse
+we said	dicemmo
+you all said	diceste
+they said	dissero
+I did	feci
+you did	facesti
+he did	fece
+we did	facemmo
+you all did	faceste
+they did	fecero
+I stayed	stetti
+you stayed	stesti
+he stayed	stette
+we stayed	stemmo
+you all stayed	steste
+they stayed	stettero
+I had	ebbi
+you had	avesti
+he had	ebbe
+we had	avemmo
+you all had	aveste
+they had	ebbero
+I asked	chiesi
+he asked	chiese
+they asked	chiesero
+I knew	conobbi
+he knew	conobbe
+they knew	conobbero
+I decided	decisi
+he decided	decise
+they decided	decisero
+I painted	dipinsi
+he painted	dipinse
+they painted	dipinsero
+I read	lessi
+he read	lesse
+they read	lessero
+I put	missi
+he put	misse
+they put	missero
+I swam	nacqui
+he swam	nacque
+they swam	nacquero
+I took	presi
+he took	prese
+they took	presero
+I responded	risposi
+he responded	rispose
+they responded	risposero
+I wrote	scrissi
+he wrote	scrisse
+they wrote	scrissero
+I saw	vidi
+he saw	vide
+they saw	videro
+I came	venni
+he came	venne
+they came	vennero
+I won	vinsi
+he won	vinse
+they won	vinsero
+I lived	vissi
+he lived	visse
+they lived	vissero
+I wanted	volli
+he wanted	volle
+they wanted	vollero

@@ -1,0 +1,66 @@
+to attach	allegare
+to delete	annullare
+to hire	assumere
+I hired	ho assunto
+to have an interview	avere un colloquio
+to type	battere
+I am happy to	sono contenta di
+to do an interview	fare un colloquio
+to apply	fare domanda
+to set up an interview	fissare un colloquio
+to fire	licenziare
+to quit	licenziarsi
+to surf the Web	navigare in rete
+to take an entrance exam	partecipare a un concorso
+to fill out a form	riempire un modulo
+to save	salvare
+to download	scaricare
+to type on a computer	scrivere a macchina
+business, affairs	gli affari
+ad, notice	l'annuncio
+health insurance	l'assistenza medica
+firm, business, agency	l'azienda
+benefits	i benefici
+colleague (m)	il collega
+colleague (f)	la collega
+interview	il colloquio
+business, trade	il commercio
+cost of living	il costo della vita
+CV, resume	il curriculum
+CVs, resumes	i curricula
+employer (m)	il datore di lavoro
+employer (f)	la datrice di lavoro
+executive (m)	il dirigente
+executive (f)	la dirigente
+firm, business	la ditta
+industry	l'industria
+inflation	l'inflazione
+worker (m)	il lavoratore
+worker (f)	la lavoratrice
+(professional) function, duty	la mansione
+trade, occupation	il mestiere
+form	il modulo
+search engine	il motore di ricerca
+offer	l'offerta
+profession, trade	la professione
+requirement, qualification	il requisito
+the Web	la rete
+demand	la richiesta
+labor union	il sindacato
+website	il sito Internet
+printer	la stampante
+keyboard	la tastiera
+internship	il tirocinio
+provided that, in the case that	a condizione che
+unless	a meno che ... non
+so that	affinché
+although (2)	benché, sebbene
+no matter how	comunque
+wherever	dovunque
+so that, because	perché
+before	prima che
+provided that	purché
+without	senza che
+whoever, whomever	chiunque
+whatever, whichever	qualunque
+whatever, no matter what	qualunque cosa

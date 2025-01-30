@@ -1,0 +1,140 @@
+it is important that	è importante che
+it is possible that	è possibile che
+it is impossible that	è impossibile che
+it is probable that	è probabile che
+it is improbable that	è improbabile che
+it is incredible that	è incredibile che
+it is time that	è ora che
+it is too bad that	è peccato che
+it is strange that	è strano che
+it is better that	è meglio che
+it is worse that	è peggio che
+it is right that	è giusto che
+it is good that	è bene che
+it is bad that	è male che
+that I speak	che io parli
+that you speak	che tu parli
+that he speaks	che lui parli
+that we speak	che parliamo
+that you all speak	che parliate
+that they speak	che parlino
+that I write	che io scriva
+that you write	che tu scriva
+that he writes	che lui scriva
+that we write	che scriviamo
+that you all write	che scriviate
+that they write	che scrivano
+that I sleep	che io dorma
+that you sleep	che tu dorma
+that he sleeps	che lui dorma
+that we sleep	che dormiamo
+that you all sleep	che dormiate
+that they sleep	che dormano
+that I understand	che io capisca
+that you understand	che tu capisca
+that he understands	che lui capisca
+that we understand	che capiamo
+that you all understand	che capiate
+that they understand	che capiscano
+that I pay	che io paghi
+that you pay	che tu paghi
+that he pays	che lui paghi
+that we pay	che paghiamo
+that you all pay	che paghiate
+that they pay	che paghino
+that I start	che io cominci
+that you start	che tu cominci
+that he starts	che lui cominci
+that we start	che cominciamo
+that you all start	che cominciate
+that they start	che comincino
+that I go	che io vada
+that we go	che andiamo
+that you all go	che andiate
+that they go	che vadano
+that I have	che io abbia
+that we have	che abbiamo
+that you all have	che abbiate
+that they have	che abbiano
+that I drink	che io beva
+that we drink	che beviamo
+that you all drink	che beviate
+that they drink	che bevano
+that I give	che io dia
+that we give	che diamo
+that you all give	che diate
+that they give	che diano
+that I say	che io dica
+that we say	che diciamo
+that you all say	che diciate
+that they say	che dicano
+that I must	che io debba
+that we must	che dobbiamo
+that you all must	che dobbiate
+that they must	che debbano
+that I am	che io sia
+that we are	che siamo
+that you all are	che siate
+that they are	che siano
+that I do	che io faccia
+that we do	che facciamo
+that you all do	che facciate
+that they do	che facciano
+that it pleases me	che mi piaccia
+that they please me	che mi piacciano
+that I can	che io possa
+that we can	che possiamo
+that you all can	che possiate
+that they can	che possano
+that I know	che io sappia
+that we know	che sappiamo
+that you all know	che sappiate
+that they know	che sappiano
+that I stay	che io stia
+that we stay	che stiamo
+that you all stay	che stiate
+that they stay	che stiano
+that I exit	che io esca
+that we exit	che usciamo
+that you all exit	che usciate
+that they exit	che escano
+that I come	che io venga
+that we come	che veniamo
+that you all come	che veniate
+that they come	che vengano
+that I want	che io voglia
+that we want	che vogliamo
+that you all want	che vogliate
+that they want	che vogliano
+I am happy/content that	sono contenta che
+I am happy that	sono felice che
+it pleases me that	mi piace che
+it displeases me that	mi dispiace che
+I am afraid that	ho paura che
+I prefer that	preferisco che
+I hope that (s)	spero che
+I hope that (a)	mi auguro che
+I believe that	credo che
+I doubt that	dubito che
+I have the impression that	ho l'impressione che
+I imagine that	immagino che
+I think that	penso che
+I ask that	chiedo che
+I wish that	desidero che
+I insist that	esigo che
+I want that	voglio che
+it is necessary that	bisogna che
+it seems that (2)	sembra che, pare che
+provided that, as long as	purché
+on the condition that	a condizione che
+unless	a meno che ... non
+so that	affinché
+so that, because	perché
+although (2)	benché, sebbene
+before (someone doing something)	prima che
+without (someone doing something)	senza che
+no matter how, anyway	comunque
+wherever	dovunque
+whoever, whomever	chiunque
+whatever, whichever	qualunque
+whatever, no matter what	qualunque cosa

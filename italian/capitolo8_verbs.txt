@@ -1,0 +1,57 @@
+to go out (from)	andare via
+to direct	dirigere
+I directed	ho diretto
+to film, to shoot a film	girare
+to produce	produrre
+I produced	ho prodotto
+to publish	pubblicare
+to review	recensire
+I review	recensisco
+to follow, to watch regularly	seguire
+to print	stampare
+to take place	svolgersi
+it took place	si è svolto
+to broadcast	trasmettere
+I broadcasted	ho trasmesso
+I was talking	parlavo
+you were talking	parlavi
+he/she was talking	parlava
+we were talking	parlavamo
+you all were talking	parlavate
+they were talking	parlavano
+I was writing	scrivevo
+you were writing	scrivevi
+he/she was writing	scriveva
+we were writing	scrivevamo
+you all were writing	scrivevate
+they were writing	scrivevano
+I was sleeping	dormivo
+you were sleeping	dormivi
+he/she was sleeping	dormiva
+we were sleeping	dormivamo
+you all were sleeping	dormivate
+they were sleeping	dormivano
+I was	ero
+you were	eri
+he/she was	era
+we were	eravamo
+you all were	eravate
+they were	erano
+I was drinking	bevevo
+you were drinking	bevevi
+he/she was drinking	beveva
+we were drinking	bevevamo
+you all were drinking	bevevate
+they were drinking	bevevano
+I was saying	dicevo
+you were saying	dicevi
+he/she was saying	diceva
+we were saying	dicevamo
+you all were saying	dicevate
+they were saying	dicevano
+I was making	facevo
+you were making	facevi
+he/she was making	faceva
+we were making	facevamo
+you all were making	facevate
+they were making	facevano
